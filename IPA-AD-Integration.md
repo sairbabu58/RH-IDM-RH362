@@ -1,9 +1,9 @@
  
-# Configure IPA Server with different domain 'ocp.cancom.intern.local'
-# Configure AD server with different domain  'test-ad.ocp4.local'
+### Configure IPA Server with different domain 'ocp.cancom.intern.local'
+### Configure AD server with different domain  'test-ad.ocp4.local'
 
-# DNS resolution is most IMP point.
-# If require add dns entry on /etc/resolv.conf file 
+### DNS resolution is most IMP point.
+### If require add dns entry on /etc/resolv.conf file 
 ```
 nameserver IP-SERVER-IP
 nameserver AD-SERVER-IP
