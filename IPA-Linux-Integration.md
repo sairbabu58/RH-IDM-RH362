@@ -14,6 +14,6 @@ $ ipa-client-install --mkhomedir
 
 **-> Joined Realm Failed: Host is already joined**
 ```
-$ ipa host-list
+$ ipa host-show
 $ ipa host-del <name>
 ```
